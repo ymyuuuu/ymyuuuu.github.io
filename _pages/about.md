@@ -36,7 +36,7 @@ Additionally, my interests include various technologies related to deep learning
 ***
 
 はじめまして！
-横浜国立大学白川研究室に所属している、博士後期課程1年の山田裕太郎です。\\
+横浜国立大学・[白川研究室](https://shiralab.ynu.ac.jp/)に所属している、博士後期課程1年の山田裕太郎です。\\
 人工知能およびブラックボックス最適化を中心とした研究を行っています。
 
 主に進化計算（Evolutionary Computation）および多目的最適化（Multi-objective Optimization）における、最適化アルゴリズムの開発や応用に関心を持っています。
