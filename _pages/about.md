@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-はじめまして！
-横浜国立大学・[白川研究室](https://shiralab.ynu.ac.jp/)に所属している、博士課程後期1年の山田裕太郎です。\\
+はじめまして！\\
+横浜国立大学・[白川研究室](https://shiralab.ynu.ac.jp/)に所属している、博士課程後期1年の山田裕太郎です。
 人工知能およびブラックボックス最適化を中心とした研究を行っています。
 
 主に進化計算（Evolutionary Computation）および多目的最適化（Multi-objective Optimization）における、最適化アルゴリズムの開発や応用に関心を持っています。
@@ -37,7 +37,7 @@ latest_posts:
 ***
 
 Hello!\\
-I am a 1st-year Ph.D. student at [Shirakawa Laboratory](https://shiralab.ynu.ac.jp/), Yokohama National University. \\
+I am a 1st-year Ph.D. student at [Shirakawa Laboratory](https://shiralab.ynu.ac.jp/), Yokohama National University.
 My research primarily focuses on artificial intelligence and black-box optimization.
 
 I am particularly interested in Evolutionary Computation and Multi-objective Optimization.
