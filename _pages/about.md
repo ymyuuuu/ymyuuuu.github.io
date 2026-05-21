@@ -4,10 +4,10 @@ title: about
 permalink: /
 subtitle: Ph.D. Student in Information Science <br> Shirakawa Laboratory, Yokohama National University
 
-# profile:
-#   align: right
-#   image: 
-#   image_circular: false # crops the image to make it circular
+profile:
+  align: right
+  image: prof.jpg
+  image_circular: false # crops the image to make it circular
 #   more_info: >
 #     <p>555 your office number</p>
 #     <p>123 your address street</p>
