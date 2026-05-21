@@ -1,6 +1,6 @@
 cv:
   name: Yutaro Yamada
-  label: PhD Student in Information Science
+  label: Ph.D. Student in Information Science
   email: yamada-yutaro-dw@ynu.jp
   location: Yokohama, Japan
   image: ""
@@ -28,7 +28,7 @@ cv:
         location: Yokohama, Japan
         url: https://www.eis.ynu.ac.jp/english/
         area: Information Science
-        studyType: PhD
+        studyType: Ph.D.
         start_date: 2026
         end_date: "Current"
 
