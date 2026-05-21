@@ -106,18 +106,18 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Awards:
+      - title: EvoStar 2026 Outstanding Student
+        url: https://www.evostar.org/2026/outstanding-students-of-2026/
+        date: 2026-04-10
+        awarder: The SPECIES Society
+        summary: Recognized for the outstanding work presented in the paper "Weight Adaptation for Improving Parallel Performance of Adaptive Stochastic Natural Gradient" at EvoStar 2026.
+
       - title: Dean's Award for Outstanding Research
         # authors:
         #   - "Dean of the Graduate School of Environment and Information Sciences, Yokohama National University"
         date: 2026-03-25
         awarder: Dean of the Graduate School of Environment and Information Sciences, Yokohama National University
-        summary: Awarded for outstanding achievements in academic research activities during the Master's program
-
-      - title: EvoStar 2026 Outstanding Student
-        url: https://www.evostar.org/2026/outstanding-students-of-2026/
-        date: 2026-04-10
-        awarder: The SPECIES Society
-        summary: Recognized for the outstanding work presented in the paper "Weight Adaptation for Improving Parallel Performance of Adaptive Stochastic Natural Gradient" at EvoStar 2026
+        summary: Awarded for outstanding achievements in academic research activities during the Master's program.
 
       - title: |
           Silver Medal: The 4th Kusen (air combat) AI Challenge
@@ -132,10 +132,10 @@ cv:
         date: 2025-10-31
         awarder: Kaggle
         summary: Achieved a bronze medal in the Google Code Golf Championship at NeurIPS 2025 (placed 88th out of 1,142 teams). The task in this competition was to write the shortest possible Python code that could correctly solve 400 problems in ARC-AGI-1 dataset.
-      
 
-
-    # Publications:
+    Publications:
+        # - title: See full publications ➡️
+        #   url: /publications/
     #   - title: Zur Elektrodynamik bewegter Körper
     #     authors:
     #       - Albert Einstein
