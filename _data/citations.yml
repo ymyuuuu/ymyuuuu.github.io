@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-24'
 papers:
   jviuQTsAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Weight Adaptation for Improving Parallel Performance of Adaptive Stochastic Natural Gradient
     year: '2026'
   jviuQTsAAAAJ:d1gkVwhDpl0C:
-    citations: 2
+    citations: 3
     title: Learning rate adaptation CMA-ES for multimodal and noisy problems with low effective dimensionality
     year: '2025'
   jviuQTsAAAAJ:u-x6o8ySG0sC:
