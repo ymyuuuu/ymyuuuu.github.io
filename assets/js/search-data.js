@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-weight-adaptation-for-improving-parallel-performance-of-adaptive-stochastic-natural-gradient-has-been-published-in-the-evocop-2026-proceedings-it-was-nominated-for-the-evocop-best-paper-award-and-and-i-received-the-outstanding-student-mention",
+          title: 'Our paper, “Weight Adaptation for Improving Parallel Performance of Adaptive Stochastic Natural Gradient”,...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-preprint-bbowp-bench-evaluating-llms-on-black-box-optimization-word-problems-is-available-on-arxiv-the-code-and-dataset-are-available-on-github",
+          title: 'Our preprint “BBOWP-Bench: Evaluating LLMs on Black-Box Optimization Word Problems” is available on...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-a-framework-for-ensuring-invariance-of-multi-objective-evolutionary-algorithms-to-order-preserving-transformation-of-objective-functions-was-published-in-swarm-and-evolutionary-computation",
+          title: 'Our paper “A Framework for Ensuring Invariance of Multi-Objective Evolutionary Algorithms to Order-Preserving...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
