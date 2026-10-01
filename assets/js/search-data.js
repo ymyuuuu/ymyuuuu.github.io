@@ -391,7 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-weight-adaptation-for-improving-parallel-performance-of-adaptive-stochastic-natural-gradient-has-been-published-in-the-evocop-2026-proceedings-it-was-nominated-for-the-evocop-best-paper-award-and-and-i-received-the-outstanding-student-mention",
+            },},{id: "news-our-paper-weight-adaptation-for-improving-parallel-performance-of-adaptive-stochastic-natural-gradient-has-been-published-in-the-evocop-2026-proceedings-it-was-nominated-for-the-evocop-best-paper-award-and-i-received-the-outstanding-student-mention",
           title: 'Our paper, “Weight Adaptation for Improving Parallel Performance of Adaptive Stochastic Natural Gradient”,...',
           description: "",
           section: "News",},{id: "news-our-preprint-bbowp-bench-evaluating-llms-on-black-box-optimization-word-problems-is-available-on-arxiv-the-code-and-dataset-are-available-on-github",
