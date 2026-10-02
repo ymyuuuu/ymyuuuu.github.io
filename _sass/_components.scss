@@ -122,6 +122,64 @@ ul.task-list input[type="checkbox"] {
   transform: translateX(-15px) translateY(-5px);
 }
 
+// News
+.news-table {
+  th,
+  td {
+    padding: 0.75rem 0.75rem 0.75rem 0;
+    vertical-align: top;
+    border-top: 0;
+  }
+
+  th {
+    width: 20%;
+  }
+
+  tr + tr > th,
+  tr + tr > td {
+    border-top: 1px solid var(--global-news-divider-color);
+  }
+
+  td p {
+    margin-bottom: 0;
+
+    + p {
+      margin-top: 0.5rem;
+    }
+  }
+}
+
+@media (max-width: 575.98px) {
+  .news-table {
+    display: block;
+
+    tbody,
+    tr,
+    th,
+    td {
+      display: block;
+      width: 100%;
+    }
+
+    tr + tr {
+      border-top: 1px solid var(--global-news-divider-color);
+    }
+
+    tr + tr > th,
+    tr + tr > td {
+      border-top: 0;
+    }
+
+    th {
+      padding-bottom: 0.125rem;
+    }
+
+    td {
+      padding-top: 0;
+    }
+  }
+}
+
 // Projects
 
 .projects {
